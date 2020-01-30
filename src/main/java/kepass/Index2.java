@@ -9,6 +9,9 @@ import java.util.List;
 
 public class Index2 {
 
+
+    //PRINTING INFORMATION IN A STRUCTURED WAY (BY GROUPS)
+    //As a regular user of the Keepass application, i love to categorize the credentials that i store on my file using groups and subgroups. For example, separating the credentials from my personal life with job related accounts:
     public static void main(String[] args){
 
         // 1. Open a KeePass database file through a plain text password

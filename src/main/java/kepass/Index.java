@@ -8,6 +8,9 @@ import java.util.List;
 
 public class Index {
 
+    //PRINTING ALL CREDENTIALS
+    //If you just obtained a KeePass database from someone and you only need to obtain the information without worrying about categorization, you can easily print all the stored credentials in the file with the following logic:
+
     public static void main(String[] args){
 
         // 1. Open a KeePass database file through a plain text password
